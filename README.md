@@ -1,34 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h1>Portfolio Christian Tong Cruz</h1>
+<p>🚀 Un portafolio web es una herramienta indispensable para cualquier programador que quiera mostrar sus habilidades y proyectos a posibles empleadores o clientes. Es una forma de presentar tus proyectos de una manera clara y organizada que permitirá a los interesados conocer mejor tu trabajo y tus habilidades.</p>
+<p>Además, un portafolio web puede servir como una plataforma para demostrar tus habilidades de diseño y desarrollo web. Al crear un portafolio, puedes mostrar tus habilidades técnicas y creativas a través de proyectos que hayas trabajado o diseñado.</p>
+<h2>Tecnologías utilizadas 🛠️</h2>
+<ul>
+  <li>💻 <strong>Next.js</strong>: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"> - Framework de React utilizado para desarrollar aplicaciones web altamente dinámicas y escalables.</li>
+  <li>🎨 <strong>TailwindCSS</strong>: <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"> - Framework de CSS utilizado para diseñar un sitio web atractivo y fácil de usar, mejorando la experiencia del usuario.</li>
+</ul>
+<h2>Documentación</h2>
+<p>📚 Puedes consultar la documentación detallada de este proyecto en mi página de Notion: <a href="https://towering-angle-49e.notion.site/Portafolio-cf4e65750430464daa5968c729733bda"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"></a></p>
