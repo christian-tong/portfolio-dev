@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <Header />
-        <main className="h-screen py-14 px-4 flex items-center justify-center border border-lines-gunmetal rounded-xl">
+        <main className="h-[100dvh] pt-14 pb-11 max-sm:px-4 flex items-center justify-center border border-lines-gunmetal rounded-xl">
           {children}
         </main>
         <Footer />

@@ -73,7 +73,7 @@ function Header() {
         </button>
         {Menu && (
           <div className="absolute border border-lines-gunmetal right-0 top-[57px] w-full">
-            <ul className="flex flex-col">
+            <ul className="flex flex-col bg-primary-rich-black-200">
               <Link href="/hello" onClick={menuClick}>
                 <li className=" border px-7 py-4 h-full flex items-center border-x border-lines-gunmetal text-white">
                   _hello
