@@ -8,3 +8,5 @@
 </ul>
 <h2>Documentación</h2>
 <p>📚 Puedes consultar la documentación detallada de este proyecto en mi página de Notion: <a href="https://towering-angle-49e.notion.site/Portafolio-cf4e65750430464daa5968c729733bda"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"></a></p>
+<h2>Link Portafolio</h2>
+<a href="https://christian-tong.github.io/portfolio-dev/hello">Link</a>
