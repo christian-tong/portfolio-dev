@@ -1,7 +1,11 @@
-import React from "react";
+"use client";
+import { redirect, usePathname } from "next/navigation";
 
 function AboutMePage() {
-  return <div>AboutMePage</div>;
+  const pathname = usePathname();
+  if (pathname === "/about-me") {
+    redirect("/about-me/bio/index");
+  }
 }
 
 export default AboutMePage;

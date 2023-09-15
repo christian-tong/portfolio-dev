@@ -15,7 +15,7 @@ function Header() {
 
   const pathname = usePathname();
   return (
-    <header className="absolute z-10 top-0 right-0 w-full">
+    <header className="relative top-0 right-0 w-full">
       <nav className="flex w-full justify-between items-center border rounded-t-xl border-lines-gunmetal ">
         <Link
           href="/hello"

@@ -3,10 +3,10 @@ import ImagePortfolio from "../assets/image-portfolio.png";
 
 function HelloPage() {
   return (
-    <section className="h-full w-full py-2 px-2 flex items-center justify-center gap-20">
+    <section className="h-full w-full py-2 px-6 flex items-center justify-center gap-20">
       <div className="flex flex-col gap-y-8">
         <div className="flex flex-col gap-2">
-          <p className="text-lg text-white">Hi all. I am</p>
+          <p className="text-lg text-white">Hi everyone. I am</p>
           <h1 className="text-6xl text-white">Christian Tong</h1>
           <h2 className="text-3xl text-secondary-savoy-blue flex gap-2 items-center max-sm:text-xl max-sm:text-secondary-persian-green">
             {"> Front-End Developer"}

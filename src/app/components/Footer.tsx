@@ -5,7 +5,7 @@ import Link from "next/link";
 
 function Footer() {
   return (
-    <footer className="absolute z-10 bottom-0 left-0 w-full">
+    <footer className="relative bottom-0 right-0 w-full">
       <section className="flex flex-1 w-full border rounded-b-xl border-lines-gunmetal">
         <p className="pl-4 max-w-[150px] w-full flex items-center">
           find me in:
