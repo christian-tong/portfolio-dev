@@ -11,7 +11,7 @@ export default function ProjectsLayout({
   children: React.ReactNode;
 }) {
   return (
-    <section className="h-[100dvh] w-full max-lg:h-full flex flex-col justify-between">
+    <section className="h-[100dvh] w-full max-xl:h-full flex flex-col justify-between">
       <Header />
       <section className="flex h-full w-full max-xl:flex-col">
         <ProjectsSideNav />
