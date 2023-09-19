@@ -38,7 +38,7 @@ function Header() {
             <Link href="/about-me">
               <li
                 className={
-                  pathname === "/about-me"
+                  pathname === "/about-me/bio/index"
                     ? "border-b-accent-sandy-brown border-b-2 px-7 h-full flex items-center border-x border-lines-gunmetal "
                     : "px-7 h-full flex items-center border-x border-lines-gunmetal"
                 }>
@@ -72,7 +72,7 @@ function Header() {
           {Menu ? <CloseFillIcon /> : <MenuFillIcon />}
         </button>
         {Menu && (
-          <div className="absolute border border-lines-gunmetal right-0 top-[57px] w-full">
+          <div className="absolute z-10 border border-lines-gunmetal right-0 top-[57px] w-full">
             <ul className="flex flex-col bg-primary-rich-black-200">
               <Link href="/hello" onClick={menuClick}>
                 <li className=" border px-7 py-4 h-full flex items-center border-x border-lines-gunmetal text-white">

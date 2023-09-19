@@ -3,6 +3,7 @@ import {
   SiCss3,
   SiTailwindcss,
   SiJavascript,
+  SiTypescript,
   SiReact,
   SiNextdotjs,
   SiAngular,
@@ -19,6 +20,7 @@ function Skills() {
       <SiHtml5 size={48} />
       <SiCss3 size={48} />
       <SiJavascript size={48} />
+      <SiTypescript size={48} />
       <SiTailwindcss size={48} />
       <SiReact size={48} />
       <SiAngular size={48} />
