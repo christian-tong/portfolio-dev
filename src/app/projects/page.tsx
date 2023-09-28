@@ -172,6 +172,7 @@ function ProjectsPage() {
           technologies={PROJECT.technologies}
         />
       ))}
+      <div className="flex justify-center items-center "><p>More Projects Coming Soon...</p></div>
     </section>
   );
 }
