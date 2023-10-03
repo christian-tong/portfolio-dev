@@ -122,7 +122,7 @@ const ProjectCard = ({
     <section className="max-w-sm p-4 flex flex-col gap-4 ">
       <div>
         <h3 className="text-secondary-savoy-blue font-bold inline">
-          Project {id+1}{" "}
+          Project {id + 1}{" "}
         </h3>
         <span>{`// _${title}`}</span>
       </div>
@@ -172,7 +172,9 @@ function ProjectsPage() {
           technologies={PROJECT.technologies}
         />
       ))}
-      <div className="flex justify-center items-center "><p>More Projects Coming Soon...</p></div>
+      <div className="max-w-sm h-80 p-4 flex justify-center items-center ">
+        <p>More Projects Coming Soon...</p>
+      </div>
     </section>
   );
 }
