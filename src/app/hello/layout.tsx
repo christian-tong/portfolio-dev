@@ -11,9 +11,9 @@ export default function HelloLayout({
   children: React.ReactNode;
 }) {
   return (
-    <section className="h-[100dvh] flex flex-col justify-between">
+    <section className="h-[100dvh] w-full flex flex-col justify-between">
       <Header />
-      <main className="h-full ">{children}</main>
+      <main className="h-full">{children}</main>
       <Footer />
     </section>
   );

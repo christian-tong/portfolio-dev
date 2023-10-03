@@ -29,12 +29,12 @@ function HelloPage() {
       </div>
       <div className="flex flex-col absolute 2xl:left-1/2 -rotate-12">
         <div className="flex">
-          <div className="h-[550px] w-[550px] max-sm:h-32 max-sm:w-32 max-lg:h-40 max-lg:w-40  max-xl:h-52 max-xl:w-52 rounded-full bg-gradients-turquoise blur-3xl opacity-20 max-sm:opacity-50"></div>
+          <div className="h-[400px] w-[400px] max-sm:h-32 max-sm:w-32 max-lg:h-40 max-lg:w-40  max-xl:h-52 max-xl:w-52 rounded-full bg-gradients-turquoise blur-3xl opacity-20 max-sm:opacity-50"></div>
           <div></div>
         </div>
         <div className="flex">
           <div className="w-40"></div>
-          <div className="h-[550px] w-[550px] max-sm:h-32 max-sm:w-32 max-lg:h-40 max-lg:w-40  max-xl:h-52 max-xl:w-52 rounded-full bg-gradients-savoy-blue blur-3xl opacity-20 max-sm:opacity-50"></div>
+          <div className="h-[400px] w-[400px] max-sm:h-32 max-sm:w-32 max-lg:h-40 max-lg:w-40  max-xl:h-52 max-xl:w-52 rounded-full bg-gradients-savoy-blue blur-3xl opacity-20 max-sm:opacity-50"></div>
         </div>
       </div>
       <div className="flex max-xl:hidden">
